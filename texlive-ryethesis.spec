@@ -19,6 +19,8 @@ BuildRequires:	texlive-tlpkg
 Requires(pre):	texlive-tlpkg
 Requires(post):	texlive-kpathsea
 
+%define		_unpackaged_subdirs_terminate_build	0
+
 %description
 The class offers support for formatting a thesis, dissertation
 or project according to Ryerson University's School of Graduate
