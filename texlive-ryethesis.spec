@@ -1,12 +1,12 @@
-# revision 21316
+# revision 32584
 # category Package
 # catalog-ctan /macros/latex/contrib/ryethesis
-# catalog-date 2011-02-05 10:59:30 +0100
+# catalog-date 2014-01-05 10:29:32 +0100
 # catalog-license lppl1.3
-# catalog-version 1.3
+# catalog-version 1.34
 Name:		texlive-ryethesis
-Version:	1.3
-Release:	6
+Version:	1.34
+Release:	1
 Summary:	Class for Ryerson Unversity Graduate School requirements
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ryethesis
@@ -18,8 +18,6 @@ BuildArch:	noarch
 BuildRequires:	texlive-tlpkg
 Requires(pre):	texlive-tlpkg
 Requires(post):	texlive-kpathsea
-
-%define		_unpackaged_subdirs_terminate_build	0
 
 %description
 The class offers support for formatting a thesis, dissertation
@@ -57,17 +55,3 @@ Studies thesis formatting regulations.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
-
-
-%changelog
-* Wed Jan 04 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.3-2
-+ Revision: 756075
-- Rebuild to reduce used resources
-
-* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 1.3-1
-+ Revision: 719476
-- texlive-ryethesis
-- texlive-ryethesis
-- texlive-ryethesis
-- texlive-ryethesis
-
