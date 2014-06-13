@@ -6,7 +6,7 @@
 # catalog-version 1.34
 Name:		texlive-ryethesis
 Version:	1.34
-Release:	1
+Release:	2
 Summary:	Class for Ryerson Unversity Graduate School requirements
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ryethesis
