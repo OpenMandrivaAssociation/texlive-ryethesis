@@ -1,12 +1,12 @@
-# revision 32584
+# revision 33945
 # category Package
 # catalog-ctan /macros/latex/contrib/ryethesis
-# catalog-date 2014-01-05 10:29:32 +0100
+# catalog-date 2014-05-09 11:52:57 +0200
 # catalog-license lppl1.3
-# catalog-version 1.34
+# catalog-version 1.36
 Name:		texlive-ryethesis
-Version:	1.34
-Release:	2
+Version:	1.36
+Release:	1
 Summary:	Class for Ryerson Unversity Graduate School requirements
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ryethesis
