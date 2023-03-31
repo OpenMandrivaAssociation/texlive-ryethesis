@@ -1,6 +1,6 @@
 Name:		texlive-ryethesis
 Version:	33945
-Release:	1
+Release:	2
 Summary:	Class for Ryerson Unversity Graduate School requirements
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ryethesis
