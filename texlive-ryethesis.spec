@@ -3,7 +3,7 @@ Version:	33945
 Release:	2
 Summary:	Class for Ryerson Unversity Graduate School requirements
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ryethesis
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/ryethesis
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ryethesis.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ryethesis.doc.r%{version}.tar.xz
